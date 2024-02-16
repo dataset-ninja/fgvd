@@ -71,15 +71,14 @@ REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = {
 }
 
 CITATION_URL: Optional[str] = None
-AUTHORS: Optional[List[str]] = (
-    [
-        "Prafful Kumar Khoba",
-        "Chirag Parikh",
-        "Rohit Saluja",
-        "Ravi Kiran Sarvadevabhatla",
-        "C.V. Jawahar",
-    ],
-)
+AUTHORS: Optional[List[str]] = [
+    "Prafful Kumar Khoba",
+    "Chirag Parikh",
+    "Rohit Saluja",
+    "Ravi Kiran",
+    "C.V. Jawahar",
+]
+
 AUTHORS_CONTACTS: Optional[List[str]] = [
     "qiz228274@iitd.ac.in",
     "chirag.parikh@students.iiit.ac.in",
