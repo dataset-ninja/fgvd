@@ -1,6 +1,6 @@
 Dataset **FGVD** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/D/X/Ww/a1JaYrzHnj7trF7Ot4w1k15u3pebtIrRkVdG1F7DA04tIxda5TxEux6bwaZWmhDankHfoPzySYASJF8gP2AB7gmpVA6AKMimQ0Xi9iA8ymhydiDX1KDK0mJiKUro.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
